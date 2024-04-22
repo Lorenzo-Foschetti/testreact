@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.firstHeading {
+  color: palegoldenrod;
+}
+.secondHeading {
+  color: powderblue;
+  font-weight: bold;
+}
+
+.buttonColor {
+  color: blue;
+  background-color: bisque;
+  border: none;
+}
+
+.buttonColor2 {
+  color: red;
+  background-color: bisque;
+  border: none;
+  margin-top: 20px;
+}
+
+.imgStyle {
+  height: 300px;
+  width: 300px;
+}
